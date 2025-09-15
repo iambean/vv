@@ -1,0 +1,5 @@
+Figures
+demo
+pretrained_models
+vibevoice
+voice_data
